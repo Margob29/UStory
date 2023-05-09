@@ -10,7 +10,7 @@ ob_start(); ?>
             <div class="col-sm-12 col-lg-5">
                 <form name="creation_chapter" method="POST">
                     <fieldset class= "form bg-light p-4 background ">
-                        <legend class="text-center mb-3">Création d'un chapitre</legend>
+                        <legend class="text-center mb-3">Création d'un chapitre</legend>    
                         <div class="row mb-2">
                             <div class="col-12 mb-3">
                                 <label for="title_chap" class="col-form-label">Titre</label>
